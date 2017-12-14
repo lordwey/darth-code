@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+![Image of Gal][darth-code/Capture.JPG)
+
 [Link](url) and ![Image](src)
 ```
 
