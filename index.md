@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image of Gal](https://github.com/lordwey/darth-code/blob/master/Capture.JPG)
+![Image of Gal](https://github.com/lordwey/darth-code/blob/master/capture.jpg)
 
 [Link](url) and ![Image](src)
 ```
