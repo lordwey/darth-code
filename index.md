@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](darth-code/Capture.JPG)
+![Image](https://octodex.github.com/images/yaktocat.png)
 
 [Link](url) and ![Image](src)
 ```
