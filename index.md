@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and 
 
-![Image](/darth-code/images/capture.jpg)
+![Image](https://github.com/lordwey/darth-code/blob/gh-pages/images/capture.jpg?raw=true)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
