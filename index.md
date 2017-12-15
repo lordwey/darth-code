@@ -23,7 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](darth-code/images/capture.jpg)
+[Link](url) and 
+
+![Image](https://lordwey.github.io/darth-code/images/capture.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
